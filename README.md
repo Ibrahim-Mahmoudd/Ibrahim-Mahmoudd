@@ -1,17 +1,113 @@
 # 💫 About Me:
-👋 Hi, I’m Ibrahim Mahmoud<br>About Me<br><br>I focus on building strong foundations in AI and software engineering through deep understanding rather than surface-level usage. My learning approach is based on first principles, authoritative textbooks, and continuous hands-on implementation.<br><br>I document my learning step by step in Notion, build projects on GitHub, and practice competitive problem solving to strengthen my algorithmic thinking and engineering mindset.<br><br>🧠 Learning Philosophy<br><br>First-principles understanding over memorization<br><br>Depth over speed<br><br>Theory reinforced by implementation<br><br>Documentation as proof of understanding<br><br>If I can’t explain a concept clearly, I consider my understanding incomplete.<br><br>🚀 Main Focus Areas<br>🤖 Artificial Intelligence & Machine Learning<br><br>Python (deep foundations)<br><br>Machine Learning & Deep Learning<br><br>Mathematics for AI (Calculus, Linear Algebra, Probability)<br><br>Algorithms & Data Structures<br><br>Research papers and applied experiments<br><br>📌 Sources: world-class textbooks, research papers, and proven academic materials.<br><br>🧩 Competitive Problem Solving<br><br>C++ and STL<br><br>Algorithms and data structures<br><br>Problem decomposition and optimization<br><br>ICPC-oriented training and practice<br><br>📚 Learning Resources<br><br>I rely primarily on:<br><br>Authoritative textbooks<br><br>Academic references<br><br>Carefully selected courses where appropriate<br><br>I avoid shortcut-based learning and focus on long-term mastery.<br><br>🛠️ Projects & Practice<br><br>Mini-projects for each major topic<br><br>Larger capstone projects for deeper integration<br><br>Well-documented repositories with clear explanations<br><br>Jupyter notebooks for experiments and analysis<br><br>Each project is designed to translate theory into real, working systems.<br><br>🧪 Research & Papers<br><br>Reading and analyzing AI and ML research papers<br><br>Summarizing key ideas, assumptions, and limitations<br><br>Exploring practical applications and implementations<br><br>Documenting insights and experiments in Notion<br><br>🎯 Long-Term Goal<br><br>My long-term goal is to work at a leading global technology company, contributing to high-quality, real-world systems by combining strong fundamentals, deep understanding, and disciplined problem-solving.<br><br>🔗 Links<br>📘 Personal Knowledge Base (Notion)<br><br>Central hub for my learning journey and personal brand<br><br>Detailed explanations of books, concepts, and research papers<br><br>First-principles breakdowns and structured study notes<br><br>🔗 [Notion – Personal Knowledge & Documentation]<br><br>🤖 AI & Machine Learning Repositories<br><br>Machine learning and deep learning implementations<br><br>Applied mathematics for AI<br><br>Research paper analysis and experiments<br><br>🔗 [AI & ML Repositories]<br><br>🧠 Competitive Problem Solving<br><br>C++ solutions and algorithmic problem solving<br><br>ICPC-oriented practice and analysis<br><br>🔗 [Competitive Programming Repository]<br><br>📊 Kaggle<br><br>Interactive notebooks and experiments<br><br>Data analysis, ML models, and reproducible workflows<br><br>🔗 [Kaggle Profile]<br><br>💼 LinkedIn<br><br>Professional profile and career-focused updates<br><br>Learning milestones and project highlights<br><br>🔗 [LinkedIn Profile]<br><br>✍️ Medium<br><br>Technical articles and learning reflections<br><br>Concept explanations and problem-solving insights<br><br>🔗 [Medium Profile]
+Turning ideas into technical solutions by deeply understanding Python, AI, and computer science fundamentals.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ibrahim Mahmoud&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ibrahim Mahmoud&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim Mahmoud&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I study from world-class textbooks and authoritative resources, documenting my understanding step by step in Notion. My focus is on learning from first principles—understanding the why behind every concept rather than memorizing shortcuts.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ibrahim Mahmoud&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+I actively practice problem-solving using C++ to strengthen algorithmic thinking and prepare for competitive programming. In parallel, I build AI systems and experiments to translate theory into real-world applications.
 
----
-[![](https://visitcount.itsvg.in/api?id=Ibrahim Mahmoud&icon=0&color=3)](https://visitcount.itsvg.in)
+My long-term goal is to work at a leading global technology company, contributing to high-quality, real-world systems through strong fundamentals, continuous learning, and disciplined engineering.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧠 Learning Philosophy
+
+Learn from first principles
+
+Study from world-class textbooks and research
+
+Combine theory with hands-on implementation
+
+Document knowledge clearly and systematically
+
+Prioritize long-term mastery over short-term results
+
+📚 Areas of Focus
+🐍 Python & Software Foundations
+
+Python fundamentals to advanced concepts
+
+Clean code, best practices, and optimization
+
+Automation, scripting, and problem decomposition
+
+🤖 Artificial Intelligence & Machine Learning
+
+Machine Learning fundamentals
+
+Deep Learning concepts and architectures
+
+Mathematical foundations for AI
+
+Applied AI projects and experiments
+
+📐 Mathematics for AI
+
+Calculus
+
+Linear Algebra
+
+Probability and Statistics
+
+🧮 Algorithms & Competitive Programming
+
+Data Structures and Algorithms
+
+Competitive Programming using C++
+
+ICPC-style problem solving
+
+Time and space complexity analysis
+
+📄 Research & Papers
+
+Reading and analyzing research papers
+
+Summarizing insights and key ideas
+
+Connecting theory to practical applications
+
+🗂 Repository Structure
+
+This GitHub account is organized to reflect structured learning and long-term growth:
+
+Book-based repositories with chapter-wise notebooks
+
+Mini-projects and larger projects for applied learning
+
+Competitive programming problem sets
+
+Clean, well-documented code with clear explanations
+
+Each repository is designed to show both depth of understanding and practical implementation.
+
+🔗 Links & Platforms
+
+Notion – Personal Knowledge Base
+Central hub for all notes, explanations, book summaries, and research insights.
+
+AI & Machine Learning Repositories
+Projects, experiments, and implementations related to AI and ML.
+
+Competitive Programming Repository
+Algorithmic problem-solving practice and ICPC preparation.
+
+Kaggle Profile
+Interactive notebooks and data-driven experiments.
+
+LinkedIn Profile
+Professional profile and learning journey.
+
+Medium Profile
+Technical writing and selected deep-dive explanations.
+
+(Links will be added and updated over time.)
+
+🚀 Long-Term Vision
+
+Build strong foundations in AI and software engineering
+
+Master problem-solving and algorithmic thinking
+
+Contribute to impactful, real-world AI systems
+
+Grow into a highly skilled engineer and researcher
+
+Work at a leading global technology company
