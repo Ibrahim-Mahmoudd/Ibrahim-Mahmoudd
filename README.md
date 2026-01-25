@@ -1,13 +1,8 @@
-# 👋 Welcome to My Learning Journey
+# Hi, I'm Ibrahim 👋
 
 <div align="center">
   
-### Turning ideas into technical solutions through deep understanding of Python, AI, and Computer Science fundamentals
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL)
+### Building strong foundations in AI and Competitive Programming through first principles learning
 
 </div>
 
@@ -25,44 +20,48 @@ I'm a dedicated learner focused on building **strong fundamentals** in AI and so
 
 ## 🧠 Learning Philosophy
 
-```python
-learning_principles = {
-    "foundation": "Learn from first principles",
-    "sources": "Study from world-class textbooks and research",
-    "practice": "Combine theory with hands-on implementation",
-    "documentation": "Document knowledge clearly and systematically",
-    "mindset": "Prioritize long-term mastery over short-term results"
-}
-```
+**Learn from first principles** • **Study from world-class textbooks and research** • **Combine theory with hands-on implementation** • **Document knowledge clearly and systematically** • **Prioritize long-term mastery over short-term results**
 
 ---
 
 ## 📚 Areas of Focus
 
-### 🐍 Python & Software Foundations
-- Python fundamentals to advanced concepts
-- Clean code, best practices, and optimization
-- Automation, scripting, and problem decomposition
+<div align="center">
 
 ### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning fundamentals
-- Deep Learning concepts and architectures
-- Mathematical foundations for AI
-- Applied AI projects and experiments
 
-### 📐 Mathematics for AI
-- **Calculus** • **Linear Algebra** • **Probability & Statistics**
+</div>
 
-### 🧮 Algorithms & Competitive Programming
-- Data Structures and Algorithms
-- Competitive Programming using **C++**
-- ICPC-style problem solving
-- Time and space complexity analysis
+- **Machine Learning Fundamentals** • Building strong foundations in ML algorithms and architectures
+- **Deep Learning** • Understanding neural networks, CNNs, RNNs, and transformers
+- **Mathematical Foundations** • Mastering Calculus, Linear Algebra, Probability & Statistics
+- **Applied Projects** • Translating theory into real-world AI systems and experiments
+
+---
+
+<div align="center">
 
 ### 📄 Research & Papers
-- Reading and analyzing research papers
-- Summarizing insights and key ideas
-- Connecting theory to practical applications
+
+</div>
+
+- **Reading Research Papers** • Analyzing foundational and cutting-edge AI research
+- **Understanding Key Ideas** • Breaking down complex concepts into clear insights
+- **Theory to Practice** • Implementing papers from scratch to solidify understanding
+- **Documentation** • Summarizing learnings and connecting them to broader context
+
+---
+
+<div align="center">
+
+### 🏆 Competitive Programming
+
+</div>
+
+- **Data Structures & Algorithms** • Mastering fundamental CS building blocks
+- **Problem Solving in C++** • ICPC-style competitive programming practice
+- **Complexity Analysis** • Understanding time and space trade-offs
+- **Algorithmic Thinking** • Developing systematic approaches to problem decomposition
 
 ---
 
@@ -72,52 +71,22 @@ learning_principles = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
-
----
-
-## 🗂️ Repository Structure
-
-This GitHub account is organized to reflect **structured learning** and **long-term growth**:
-
-```
-📦 My GitHub
-├── 📚 Book-based repositories with chapter-wise notebooks
-├── 🔬 Mini-projects and larger projects for applied learning
-├── 🏆 Competitive programming problem sets
-└── 📝 Clean, well-documented code with clear explanations
-```
-
-Each repository is designed to show both **depth of understanding** and **practical implementation**.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Mahmoudd&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🎓 Current Learning
-
-- 📖 **Currently Reading:** [Book/Paper Name]
-- 🔨 **Building:** [Current Project]
-- 💡 **Exploring:** [Current Topic]
-- 🏅 **Practicing:** Competitive Programming on Codeforces/LeetCode
 
 ---
 
@@ -135,12 +104,10 @@ Each repository is designed to show both **depth of understanding** and **practi
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 📝 **Notion** | [Personal Knowledge Base](YOUR_NOTION_URL) |
-| 💼 **LinkedIn** | [Professional Profile](YOUR_LINKEDIN_URL) |
-| 📊 **Kaggle** | [Data Science Profile](YOUR_KAGGLE_URL) |
-| ✍️ **Medium** | [Technical Writing](YOUR_MEDIUM_URL) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL)
 
 </div>
 
@@ -149,9 +116,5 @@ Each repository is designed to show both **depth of understanding** and **practi
 <div align="center">
 
 ### 💭 "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
-
-**⭐ If you find my work interesting, consider giving a star to my repositories!**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
 </div>
