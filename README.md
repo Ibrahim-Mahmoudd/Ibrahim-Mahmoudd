@@ -32,10 +32,9 @@ I'm a dedicated learner focused on building **strong fundamentals** in AI and so
 
 </div>
 
-- **Machine Learning Fundamentals** • Building strong foundations in ML algorithms and architectures
-- **Deep Learning** • Understanding neural networks, CNNs, RNNs, and transformers
-- **Mathematical Foundations** • Mastering Calculus, Linear Algebra, Probability & Statistics
-- **Applied Projects** • Translating theory into real-world AI systems and experiments
+**Python** • **Mathematics** • **Algorithms** • **Machine Learning** • **Deep Learning**
+
+Building strong foundations in AI through systematic study of mathematical principles, algorithmic thinking, and hands-on implementation of ML/DL systems using Python.
 
 ---
 
@@ -80,11 +79,11 @@ I'm a dedicated learner focused on building **strong fundamentals** in AI and so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Mahmoudd&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Mahmoudd&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -104,10 +103,10 @@ I'm a dedicated learner focused on building **strong fundamentals** in AI and so
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-mahmoud-54010538a)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahim.mahmoudd.ibrahim)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ibrahimmahmoudd)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/personal-brand-ibrahim-mahmoud/Personal-Brand-Ibrahim-Mahmoud-2e481bcc4df5801dbbefe32d837c439d)
 
 </div>
 
