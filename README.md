@@ -1,113 +1,157 @@
-# 💫 About Me:
-Turning ideas into technical solutions by deeply understanding Python, AI, and computer science fundamentals.
+# 👋 Welcome to My Learning Journey
 
-I study from world-class textbooks and authoritative resources, documenting my understanding step by step in Notion. My focus is on learning from first principles—understanding the why behind every concept rather than memorizing shortcuts.
+<div align="center">
+  
+### Turning ideas into technical solutions through deep understanding of Python, AI, and Computer Science fundamentals
 
-I actively practice problem-solving using C++ to strengthen algorithmic thinking and prepare for competitive programming. In parallel, I build AI systems and experiments to translate theory into real-world applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL)
 
-My long-term goal is to work at a leading global technology company, contributing to high-quality, real-world systems through strong fundamentals, continuous learning, and disciplined engineering.
+</div>
 
-🧠 Learning Philosophy
+---
 
-Learn from first principles
+## 🎯 About Me
 
-Study from world-class textbooks and research
+I'm a dedicated learner focused on building **strong fundamentals** in AI and software engineering. I study from world-class textbooks and authoritative resources, documenting my understanding step by step in Notion.
 
-Combine theory with hands-on implementation
+**My approach:** Learning from first principles—understanding the *why* behind every concept rather than memorizing shortcuts.
 
-Document knowledge clearly and systematically
+**My goal:** Work at a leading global technology company, contributing to high-quality, real-world systems through strong fundamentals, continuous learning, and disciplined engineering.
 
-Prioritize long-term mastery over short-term results
+---
 
-📚 Areas of Focus
-🐍 Python & Software Foundations
+## 🧠 Learning Philosophy
 
-Python fundamentals to advanced concepts
+```python
+learning_principles = {
+    "foundation": "Learn from first principles",
+    "sources": "Study from world-class textbooks and research",
+    "practice": "Combine theory with hands-on implementation",
+    "documentation": "Document knowledge clearly and systematically",
+    "mindset": "Prioritize long-term mastery over short-term results"
+}
+```
 
-Clean code, best practices, and optimization
+---
 
-Automation, scripting, and problem decomposition
+## 📚 Areas of Focus
 
-🤖 Artificial Intelligence & Machine Learning
+### 🐍 Python & Software Foundations
+- Python fundamentals to advanced concepts
+- Clean code, best practices, and optimization
+- Automation, scripting, and problem decomposition
 
-Machine Learning fundamentals
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning fundamentals
+- Deep Learning concepts and architectures
+- Mathematical foundations for AI
+- Applied AI projects and experiments
 
-Deep Learning concepts and architectures
+### 📐 Mathematics for AI
+- **Calculus** • **Linear Algebra** • **Probability & Statistics**
 
-Mathematical foundations for AI
+### 🧮 Algorithms & Competitive Programming
+- Data Structures and Algorithms
+- Competitive Programming using **C++**
+- ICPC-style problem solving
+- Time and space complexity analysis
 
-Applied AI projects and experiments
+### 📄 Research & Papers
+- Reading and analyzing research papers
+- Summarizing insights and key ideas
+- Connecting theory to practical applications
 
-📐 Mathematics for AI
+---
 
-Calculus
+## 🛠️ Tech Stack
 
-Linear Algebra
+<div align="center">
 
-Probability and Statistics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-🧮 Algorithms & Competitive Programming
+</div>
 
-Data Structures and Algorithms
+---
 
-Competitive Programming using C++
+## 🗂️ Repository Structure
 
-ICPC-style problem solving
+This GitHub account is organized to reflect **structured learning** and **long-term growth**:
 
-Time and space complexity analysis
+```
+📦 My GitHub
+├── 📚 Book-based repositories with chapter-wise notebooks
+├── 🔬 Mini-projects and larger projects for applied learning
+├── 🏆 Competitive programming problem sets
+└── 📝 Clean, well-documented code with clear explanations
+```
 
-📄 Research & Papers
+Each repository is designed to show both **depth of understanding** and **practical implementation**.
 
-Reading and analyzing research papers
+---
 
-Summarizing insights and key ideas
+## 📊 GitHub Stats
 
-Connecting theory to practical applications
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-🗂 Repository Structure
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
 
-This GitHub account is organized to reflect structured learning and long-term growth:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
 
-Book-based repositories with chapter-wise notebooks
+</div>
 
-Mini-projects and larger projects for applied learning
+---
 
-Competitive programming problem sets
+## 🎓 Current Learning
 
-Clean, well-documented code with clear explanations
+- 📖 **Currently Reading:** [Book/Paper Name]
+- 🔨 **Building:** [Current Project]
+- 💡 **Exploring:** [Current Topic]
+- 🏅 **Practicing:** Competitive Programming on Codeforces/LeetCode
 
-Each repository is designed to show both depth of understanding and practical implementation.
+---
 
-🔗 Links & Platforms
+## 🚀 Long-Term Vision
 
-Notion – Personal Knowledge Base
-Central hub for all notes, explanations, book summaries, and research insights.
+> **Build strong foundations** in AI and software engineering  
+> **Master problem-solving** and algorithmic thinking  
+> **Contribute to impactful**, real-world AI systems  
+> **Grow into a highly skilled** engineer and researcher  
+> **Work at a leading global** technology company
 
-AI & Machine Learning Repositories
-Projects, experiments, and implementations related to AI and ML.
+---
 
-Competitive Programming Repository
-Algorithmic problem-solving practice and ICPC preparation.
+## 🔗 Connect With Me
 
-Kaggle Profile
-Interactive notebooks and data-driven experiments.
+<div align="center">
 
-LinkedIn Profile
-Professional profile and learning journey.
+| Platform | Link |
+|----------|------|
+| 📝 **Notion** | [Personal Knowledge Base](YOUR_NOTION_URL) |
+| 💼 **LinkedIn** | [Professional Profile](YOUR_LINKEDIN_URL) |
+| 📊 **Kaggle** | [Data Science Profile](YOUR_KAGGLE_URL) |
+| ✍️ **Medium** | [Technical Writing](YOUR_MEDIUM_URL) |
 
-Medium Profile
-Technical writing and selected deep-dive explanations.
+</div>
 
-(Links will be added and updated over time.)
+---
 
-🚀 Long-Term Vision
+<div align="center">
 
-Build strong foundations in AI and software engineering
+### 💭 "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
 
-Master problem-solving and algorithmic thinking
+**⭐ If you find my work interesting, consider giving a star to my repositories!**
 
-Contribute to impactful, real-world AI systems
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
-Grow into a highly skilled engineer and researcher
-
-Work at a leading global technology company
+</div>
