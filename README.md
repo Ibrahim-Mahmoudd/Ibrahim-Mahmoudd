@@ -77,14 +77,18 @@ Mastering CS fundamentals through ICPC-style competitive programming in C++, dev
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<a href="https://github.com/Ibrahim-Mahmoudd">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Mahmoudd&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/Ibrahim-Mahmoudd">
+  <img src="https://streak-stats.demolab.com/?user=Ibrahim-Mahmoudd&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
