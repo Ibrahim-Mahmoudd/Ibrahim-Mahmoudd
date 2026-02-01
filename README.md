@@ -30,11 +30,11 @@ I'm a dedicated learner focused on building **strong fundamentals** in AI and so
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-</div>
-
 **Python** • **Mathematics** • **Algorithms** • **Machine Learning** • **Deep Learning**
 
 Building strong foundations in AI through systematic study of mathematical principles, algorithmic thinking, and hands-on implementation of ML/DL systems using Python.
+
+</div>
 
 ---
 
@@ -42,12 +42,11 @@ Building strong foundations in AI through systematic study of mathematical princ
 
 ### 📄 Research & Papers
 
-</div>
+**Reading Research Papers** • **Understanding Key Ideas** • **Theory to Practice** • **Documentation**
 
-- **Reading Research Papers** • Analyzing foundational and cutting-edge AI research
-- **Understanding Key Ideas** • Breaking down complex concepts into clear insights
-- **Theory to Practice** • Implementing papers from scratch to solidify understanding
-- **Documentation** • Summarizing learnings and connecting them to broader context
+Analyzing foundational and cutting-edge AI research, breaking down complex concepts, implementing papers from scratch, and summarizing learnings.
+
+</div>
 
 ---
 
@@ -55,12 +54,11 @@ Building strong foundations in AI through systematic study of mathematical princ
 
 ### 🏆 Competitive Programming
 
-</div>
+**Data Structures** • **Algorithms** • **Problem Solving** • **Complexity Analysis**
 
-- **Data Structures & Algorithms** • Mastering fundamental CS building blocks
-- **Problem Solving in C++** • ICPC-style competitive programming practice
-- **Complexity Analysis** • Understanding time and space trade-offs
-- **Algorithmic Thinking** • Developing systematic approaches to problem decomposition
+Mastering CS fundamentals through ICPC-style competitive programming in C++, developing systematic approaches to problem decomposition.
+
+</div>
 
 ---
 
@@ -79,9 +77,12 @@ Building strong foundations in AI through systematic study of mathematical princ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mahmoudd&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Mahmoudd&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-Mahmoudd&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 
