@@ -40,18 +40,6 @@ Building strong foundations in AI through systematic study of mathematical princ
 
 <div align="center">
 
-### 📄 Research & Papers
-
-**Reading Research Papers** • **Understanding Key Ideas** • **Theory to Practice** • **Documentation**
-
-Analyzing foundational and cutting-edge AI research, breaking down complex concepts, implementing papers from scratch, and summarizing learnings.
-
-</div>
-
----
-
-<div align="center">
-
 ### 🏆 Competitive Programming
 
 **Data Structures** • **Algorithms** • **Problem Solving** • **Complexity Analysis**
